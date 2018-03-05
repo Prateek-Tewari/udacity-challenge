@@ -1,0 +1,16 @@
+/* add your CSS here */
+.img{
+    border-top-right-radius: 70%;
+    border-bottom-left-radius: 20%;
+}
+.headingfont{
+    text-transform: uppercase;
+    font-weight: 400px;
+    color:#f00;
+}
+.facts{
+    font-style:italic;
+}
+.mylabels{
+    font-weight:bold; 
+}
